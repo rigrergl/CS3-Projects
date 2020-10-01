@@ -1,0 +1,29 @@
+//***MAKE SURE ALL NON-COMMENTED LINES HAVE NO SPACE AT THE END***
+rotunda 
+A large, echoing rotunda
+0
+
+principalsOffice
+The principal's office
+0
+
+entryway
+School entryway
+0
+
+outside
+Outside the school
+2
+walnut(brown)
+teapot(empty)
+
+//
+//Set the exits (Format: Room direction Neighbor direction Neighbor...)
+outside north entryway
+entryway north rotunda south outside east principalsOffice
+principalsOffice west entryway
+rotunda south entryway
+//
+//Set current room
+outside
+

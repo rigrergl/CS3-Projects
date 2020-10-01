@@ -1,0 +1,36 @@
+30 20
+11 2 20 2 10.0
+W W W W W G G G W W W W W W W W W W W W W W W W W W W W W W
+W F W G W S G G G G W W W W W W W W W W W W G G W W W W W W
+W F F G S L S G G G W W W W W M M M W W W G G G F W F F M W
+W F F G G S G G G W W W W W F F F G W W W G G G G G F F M W
+W W W F G G G G G G G W W G G G G G W W W W W G G G F F F W
+W W W G G G G G F G G G G G G W W W W W W W F G W W G F W W
+W W W W G G F F G G G G G S L S W W W W G G F G G G G W W W
+W W W W W G G G G G G W G S L L S W W W G F F G G G G W W W
+W W W G G G W G G G G G G S L G S W W W G F F G W W B W W W
+W W W G W G W G G G W M G G G G W G G G G G G W W W B W W W
+W W M G W W W G G G W W M M G G F F G G G G G W W W G G W W
+W M M W W W W G G G W W W W G G F G G G G G W W G G G G W W
+M M M W W G G G G G G W W W G G G G G M M M W G G G G G W W
+M M S S S W B W W G G W G G G G G G G W W W W G G F F F W W
+W M S B S W B W W W W W G G G G G G G G W M M M G F F W W W
+W W S B B B B W W G G G G G G W W G G G G G G G G F F W W W
+W W S B S W W W F G G L G G W W W G G W G G G G G G W W W W
+W W S S S W W W F F G G G W W W W W W W W G G G G G W W W W
+W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W
+W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W
+
+SK  3   3   10  3 1000
+SK  3   4   10  3 1000
+SK  3   5   10  3 1000
+OR  6   19  8   2 1000
+OR  1   18  8   2 1000
+OR  2   16  8   2 1000
+BA  20  10  4   1 500
+BA  18  8   4   1 500
+BA  16  6   4   1 500
+SL  25  16  6   2 1500
+SL  23  15  6   2 1500
+SL  23  12  6   2 1500
+

@@ -1,0 +1,27 @@
+30 20
+11 2 20 3 100.0
+L L L L L G G G L L L L L L L L L L L L L L L L L L L L L L
+L F L G L S G G G G L L L L L L L L L L L L G G L L L L L L
+L F F G S L S G G G L L L L L M M M L L L G G G F L F F M L
+L F F G G S G G G L L L L L F F F G L L L G G G G G F F M L
+L L L F G G G G G G G L L G G G G G L L L L L G G G F F F L
+L L L G G G G G F G G G G G G L L L L L L L F G L L G F L L
+L L L L G G F F G G G G G S L S L L L L G G F G G G G L L L
+L L L L L G G G G G G L G S L L S L L L G F F G G G G L L L
+L L L G G G L G G G G G G S L G S L L L G F F G L L B L L L
+L L L G L G L G G G L M G G G G L G G G G G G L L L B L L L
+L L M G L L L G G G L L M M G G F F G G G G G L L L G G L L
+L M M L L L L G G G L L L L G G F G G G G G L L G G G G L L
+M M M L L G G G G G G L L L G G G G G M M M L G G G G G L L
+M M S S S L B L L G G L G G G G G G G L L L L G G F F F L L
+L M S B S L B L L L L L G G G G G G G G L M M M G F F L L L
+L L S B B B B L L G G G G G G L L G G G G G G G G F F L L L
+L L S B S L L L F G G L G G L L L G G L G G G G G G L L L L
+L L S S S L L L F F G G G L L L L L L L L G G G G G L L L L
+L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L
+L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L
+
+SK  3   3   10  3 1000
+OR  6   19  8   2 750
+BA  20  10  4   1 500
+SL  25  16  6   2 1250
